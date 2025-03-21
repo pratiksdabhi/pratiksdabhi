@@ -1,6 +1,3 @@
-<img src="https://www.jobvector.de/karriere-ratgeber/wp-content/uploads/2024/03/629285904.jpg" alt="Backend Developer Background" height="300" width="100%">
-
-
 # Hi There! 💫 I'm Pratik Dabhi
 
 ## 🚀 About Me
