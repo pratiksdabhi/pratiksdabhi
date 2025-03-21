@@ -1,3 +1,4 @@
+<img src="https://github.com/pratiksdabhi/pratiksdabhi/blob/main/pratik%20dabhi.png" alt="Pratik Dabhi">
 # Hi There! 💫 I'm Pratik Dabhi
 
 ## 🚀 About Me
