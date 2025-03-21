@@ -1,6 +1,6 @@
 # Hi There! 👋 I'm Pratik Dabhi
 
-
+# 
 ## 🚀 About Me
 
 I am a highly experienced backend developer with over a decade of expertise in designing and developing scalable, high-performance applications. Passionate about building robust APIs, microservices, and payment gateway integrations.
@@ -12,7 +12,7 @@ I am a highly experienced backend developer with over a decade of expertise in d
 ⚡ Fun fact: Always work with fun!
 
 
-
+# 
 
 ## 🛠️ Languages & Tools  
 
@@ -27,3 +27,6 @@ I am a highly experienced backend developer with over a decade of expertise in d
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
