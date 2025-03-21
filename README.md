@@ -28,8 +28,3 @@ I am a highly experienced backend developer with over a decade of expertise in d
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
-
-## 🏆 Achievements
-- Built a scalable **NestJS API** handling 1M+ requests/day.
-- Integrated **NestJS with MySQL, TypeORM, and Redis** for caching.
-- Developed a **payment gateway middleware** using NestJS.
